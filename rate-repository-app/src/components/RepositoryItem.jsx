@@ -7,6 +7,7 @@ const styles = StyleSheet.create({
   container: {
     padding: 15,
     backgroundColor: theme.colors.white,
+    marginBottom: 10,
   },
 
   topContainer: {
